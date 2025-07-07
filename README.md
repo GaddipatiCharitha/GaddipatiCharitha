@@ -14,7 +14,6 @@
 
 - 💡 I'm a **Python Developer** and B.Tech (AIML) student at Malla Reddy University.
 - 🛠️ Passionate about building **AI & ML applications** that solve real-world problems.
-- 🌱 Currently learning: **LangChain, LLMs, MLOps**.
 - 🏆 Best Intern of the Month @ CodeAlpha for web development.
 - 💬 Ask me about Python, Flask, NLP, and end-to-end ML projects.
 
