@@ -16,8 +16,18 @@
 - 🛠️ Passionate about building **AI & ML applications** that solve real-world problems.
 - 🏆 Best Intern of the Month @ CodeAlpha for web development.
 - 💬 Ask me about Python, Flask, NLP, and end-to-end ML projects.
+  
 
 ---
+## 💼 Work Experience
+
+### 🧑‍💻 Web Development Intern — CodeAlpha  
+**📅 Mar 2024 – Apr 2025 | 🌍 Remote**  
+- Developed responsive web apps using Flask, HTML, CSS, and JavaScript.  
+- Designed reusable Flask components and improved project structure.  
+- Contributed to projects like resume-based personality prediction and crop recommendation systems.  
+- Awarded “Best Intern of the Month” for excellence in project delivery.
+
 
 ### 🧠 Skills
 
