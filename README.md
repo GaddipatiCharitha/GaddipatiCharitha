@@ -16,6 +16,8 @@
 - 🛠️ Passionate about building **AI & ML applications** that solve real-world problems.
 - 🏆 Best Intern of the Month @ CodeAlpha for web development.
 - 💬 Ask me about Python, Flask, NLP, and end-to-end ML projects.
+- 🔗 My Portfolio Website - https://gaddipaticharitha.github.io/Portfolio/
+
   
 
 ---
