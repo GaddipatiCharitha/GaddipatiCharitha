@@ -32,11 +32,11 @@
 🤖 AI & Software Engineer Intern — LearnElectronics
 
 **📅 Sep 2025 – Present | 🌍 Remote**
-Developed AI-powered real-time monitoring systems using Python, OpenCV, and Flask.
-Built face detection and safety analysis models capable of processing live video streams at 20+ FPS.
-Improved model performance and reduced false detections by ~18% through optimization techniques.
-Integrated AI models with IoT sensor data to handle real-time inputs for intelligent monitoring.
-Deployed solutions on cloud infrastructure for scalable, production-level performance.
+- Developed AI-powered real-time monitoring systems using Python, OpenCV, and Flask.
+- Built face detection and safety analysis models capable of processing live video streams at 20+ FPS.
+- Improved model performance and reduced false detections by ~18% through optimization techniques.
+- Integrated AI models with IoT sensor data to handle real-time inputs for intelligent monitoring.
+- Deployed solutions on cloud infrastructure for scalable, production-level performance.
 
 ### 🧠 Skills
 
