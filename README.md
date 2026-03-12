@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:charithagaddipati2@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/gaddipati-charitha-18694b25a/">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/gaddipati-charitha//">💼 LinkedIn</a> |
   <a href="https://github.com/GaddipatiCharitha">🐙 GitHub</a> |
-  <a href="https://github.com/GaddipatiCharitha/Portfolio">🌐 Portfolio</a>
+  <a href="https://gaddipaticharitha-portfolio.netlify.app/">🌐 Portfolio</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🛠️ Passionate about building **AI & ML applications** that solve real-world problems.
 - 🏆 Best Intern of the Month @ CodeAlpha for web development.
 - 💬 Ask me about Python, Flask, NLP, and end-to-end ML projects.
-- 🔗 My Portfolio Website - https://gaddipaticharitha.github.io/Portfolio/
+- 🔗 My Portfolio Website -https://gaddipaticharitha-portfolio.netlify.app//
 
   
 
