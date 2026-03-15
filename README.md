@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](./banner.png)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+%7C+NLP;Building+AI+that+ships+to+production+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
