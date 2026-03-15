@@ -1,91 +1,171 @@
-<h1 align="center">Hi there, I'm Charitha 👋</h1>
-<h3 align="center">🎓 AIML Student | 💻 Python Developer | 🤖 AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:charithagaddipati2@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/gaddipati-charitha//">💼 LinkedIn</a> |
-  <a href="https://github.com/GaddipatiCharitha">🐙 GitHub</a> |
-  <a href="https://gaddipaticharitha-portfolio.netlify.app/">🌐 Portfolio</a>
-</p>
+![Banner](./banner.png)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+%7C+NLP;Building+AI+that+ships+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddipati-charitha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=netlify&logoColor=white)](https://gaddipaticharitha-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaddipatiCharitha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charithagaddipati2@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GaddipatiCharitha&color=3FB950&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```python
+class CharithaGaddipati:
+    def __init__(self):
+        self.name       = "Gaddipati Charitha"
+        self.role       = "AI/ML Engineer | Python Developer"
+        self.university = "Malla Reddy University, Hyderabad"
+        self.degree     = "B.Tech – Artificial Intelligence & Machine Learning"
+        self.cgpa       = 9.01
+        self.graduation = "June 2026"
+        self.internship = "AI & Software Engineer @ LearnElectronics India"
+        self.location   = "Hyderabad, India 📍"
+        self.open_to    = ["AI/ML Engineering", "Computer Vision", "NLP", "SDE roles"]
+
+    def achievement(self):
+        return [
+            "🏆 Best Intern of the Month — CodeAlpha (2024)",
+            "🚀 Hackathon Finalist — Code for Bharat × Microsoft × DoraHacks (2025)",
+            "☁️  AWS Cloud Foundations Certified (2025)",
+            "🤖 Gen AI Cloud Study Jams — Google (2025)",
+        ]
+
+    def motto(self):
+        return "Most AI projects stay in notebooks. Mine ship to production."
+```
 
 ---
 
-### 🚀 About Me
+## 🛠️ Tech Stack
 
-- 💡 I'm a **Python Developer** and B.Tech (AIML) student at Malla Reddy University.
-- 🛠️ Passionate about building **AI & ML applications** that solve real-world problems.
-- 🏆 Best Intern of the Month @ CodeAlpha for web development.
-- 💬 Ask me about Python, Flask, NLP, and end-to-end ML projects.
-- 🔗 My Portfolio Website -https://gaddipaticharitha-portfolio.netlify.app//
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Backend & Cloud
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌿 Plant Disease Detection | 📄 Personality Prediction |
+|:---|:---|
+| CNN trained on **5,000+ plant images** | NLP pipeline on **5,000+ resumes** |
+| **92% detection accuracy** | **~25% HR efficiency gain** |
+| TF-IDF + multi-class Scikit-learn classifiers | OpenCV · TensorFlow · Flask |
+| Deployed as live Flask web app | Deployed as Flask web app |
+| [View Repo →](https://github.com/GaddipatiCharitha) | [View Repo →](https://github.com/GaddipatiCharitha) |
+
+| 🌾 Crop Recommendation System | 👁️ Real-time Safety Analysis |
+|:---|:---|
+| ML on **7 soil & climate parameters** | Face detection + IoT sensor integration |
+| NPK, rainfall, temp, humidity, pH | Processes live video at **20+ FPS** |
+| **85%+ recommendation accuracy** | Reduced false detections by **~18%** |
+| Deployed as Flask REST API | Deployed on **AWS cloud** |
+| [View Repo →](https://github.com/GaddipatiCharitha) | [View Repo →](https://github.com/GaddipatiCharitha) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GaddipatiCharitha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaddipatiCharitha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=FF9900&currStreakLabel=3FB950" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaddipatiCharitha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 Achievement | 📅 Year |
+|:---|:---|
+| 🥇 Best Intern of the Month — CodeAlpha | 2024 |
+| 🚀 Hackathon Finalist — Code for Bharat × Microsoft × DoraHacks | 2025 |
+| ☁️ AWS Cloud Foundations — Amazon Web Services | 2025 |
+| 🤖 Gen AI Cloud Study Jams — Google Developer Groups | 2025 |
+| 🎓 AI Workflow — Coursera | 2023 |
+| 🔵 Introduction to Generative AI — Google | 2024 |
+| ☕ NPTEL Java Certification | 2024 |
+
+---
+
 ## 💼 Work Experience
 
-### 🧑‍💻 Web Development Intern — CodeAlpha  
-**📅 Mar 2024 – Apr 2025 | 🌍 Remote**  
-- Developed responsive web apps using Flask, HTML, CSS, and JavaScript.  
-- Designed reusable Flask components and improved project structure.  
-- Contributed to projects like resume-based personality prediction and crop recommendation systems.  
-- Awarded “Best Intern of the Month” for excellence in project delivery.
-🤖 AI & Software Engineer Intern — LearnElectronics
+**🤖 AI & Software Engineer Intern — LearnElectronics India** *(Sep 2025 – Present · Remote)*
+- Built AI-powered real-time monitoring systems using Python, OpenCV & Flask — **20+ FPS** live processing
+- Developed face detection & safety analysis models, reducing false detections by **~18%**
+- Integrated ML models with IoT sensor data for production deployment on **AWS**
+- Engineered Flask REST APIs connecting AI models to web interfaces
 
-**📅 Sep 2025 – Present | 🌍 Remote**
-- Developed AI-powered real-time monitoring systems using Python, OpenCV, and Flask.
-- Built face detection and safety analysis models capable of processing live video streams at 20+ FPS.
-- Improved model performance and reduced false detections by ~18% through optimization techniques.
-- Integrated AI models with IoT sensor data to handle real-time inputs for intelligent monitoring.
-- Deployed solutions on cloud infrastructure for scalable, production-level performance.
-
-### 🧠 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+**🌐 Web Development Intern — CodeAlpha** *(Mar 2024 – Apr 2024 · Remote)*
+- Designed and deployed **3+ responsive web applications** using Flask, HTML, CSS, JavaScript
+- Reduced page load time by **30%** through frontend optimisation
+- 🏆 Recognised as **Best Intern of the Month**
 
 ---
 
-### 📂 Featured Projects
+## 🎓 Education
 
-| Project | Description |
-|--------|-------------|
-| 🧢 [Spiffy](https://github.com/GaddipatiCharitha/Spiffy) | A customized clothes printing web app using Flask + JS |
-| 🧠 [Personality Prediction](https://github.com/GaddipatiCharitha/Personality_Prediction_through_CV) | NLP app that predicts personality from resumes |
-| 🌾 [Crop Recommendation](https://github.com/GaddipatiCharitha/Crop_Recommendation) | ML app that recommends crops based on soil + weather |
-| 🧪 [Plant Disease Detection](https://github.com/GaddipatiCharitha/Plant_Disease_Detection) | AI-powered leaf image classification system |
-| 🎥 [Object Detection](https://github.com/GaddipatiCharitha/Object_Detection) | Real-time object detection using OpenCV + YOLO |
+**B.Tech — Artificial Intelligence & Machine Learning** | 2022 – 2026
+Malla Reddy University, Hyderabad | **CGPA: 9.01 / 10**
+
+*Relevant Coursework: Machine Learning · Deep Learning · Computer Vision · Data Structures & Algorithms · DBMS · Operating Systems*
 
 ---
 
-### 🏅 Certifications
-- Gen AI Cloud Study Jams – **GDG** (2025)
-- Introduction to Generative AI – **Google** (2024)
-- Web Development – **HackerRank**
-- AI Workflow – **Coursera**
-- Java Programming – **NPTEL**
-- AWS Cloud Foundations – **AWS**
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddipati-charitha)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-1D9E75?style=for-the-badge&logo=netlify&logoColor=white)](https://gaddipaticharitha-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charithagaddipati2@gmail.com)
+
+<br/>
+
+*🔍 Open to AI/ML Engineering · Computer Vision · NLP · Python Developer · SDE roles*
+*📍 Hyderabad, India · Open to remote & relocation · Starting mid-2026*
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=16&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Open+to+AI%2FML+roles+from+mid-2026+%F0%9F%9A%80" alt="Footer" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaddipatiCharitha&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaddipatiCharitha&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 💬 Quote
-
-> “I build what I love, and I love what I build. Let’s innovate the world together — one project at a time.”
-
----
-
+</div>
