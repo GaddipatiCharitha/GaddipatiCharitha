@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Charitha+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Python+Developer;Computer+Vision+%7C+NLP+%7C+Flask;Building+AI+that+ships+to+production+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
@@ -18,30 +19,26 @@
 
 ## 👩‍💻 About Me
 
-```python
-class CharithaGaddipati:
-    def __init__(self):
-        self.name        = "Gaddipati Charitha"
-        self.role        = "AI/ML Engineer | Python Developer"
-        self.university  = "Malla Reddy University, Hyderabad"
-        self.degree      = "B.Tech – Artificial Intelligence & Machine Learning"
-        self.cgpa        = 9.01
-        self.graduation  = "June 2026"
-        self.internship  = "AI & Software Engineer @ LearnElectronics India"
-        self.location    = "Hyderabad, India 📍"
-        self.open_to     = ["AI/ML Engineering", "Computer Vision", "NLP", "SDE Roles"]
+🎓 **B.Tech in AI & Machine Learning** — Malla Reddy University, Hyderabad *(CGPA: 9.01 | Graduating June 2026)*
 
-    def achievements(self):
-        return [
-            "🏆 Best Intern of the Month — CodeAlpha (2024)",
-            "🚀 Hackathon Finalist — Code for Bharat × Microsoft × DoraHacks (2025)",
-            "☁️  AWS Cloud Foundations Certified (2025)",
-            "🤖 Gen AI Cloud Study Jams — Google Developer Groups (2025)",
-        ]
+🤖 Currently interning as an **AI & Software Engineer at LearnElectronics India** — building real-time Computer Vision systems that process live video at **20+ FPS** and deploying ML models to **AWS cloud infrastructure**
 
-    def motto(self):
-        return "Most AI projects stay in notebooks. Mine ship to production. 🚀"
-```
+💡 I build AI that works in the real world — not just in notebooks. I've shipped CNN models, NLP pipelines, Flask APIs, and Computer Vision systems — all deployed and production-ready
+
+📍 Based in **Hyderabad, India** — open to remote & relocation
+
+🔍 Actively seeking **AI/ML Engineering · Computer Vision · NLP · Python Developer · SDE roles** starting mid-2026
+
+<br/>
+
+| 🏆 | 📌 |
+|:---:|:---|
+| 🥇 | Best Intern of the Month — CodeAlpha (2024) |
+| 🚀 | Hackathon Finalist — Code for Bharat × Microsoft × DoraHacks (2025) |
+| ☁️ | AWS Cloud Foundations Certified (2025) |
+| 🤖 | Gen AI Cloud Study Jams — Google (2025) |
+
+> *"Most AI projects stay in notebooks. Mine ship to production."*
 
 ---
 
@@ -100,8 +97,7 @@ class CharithaGaddipati:
 
 </div>
 
-### 🎽 Also check out
-> [**Spiffy**](https://github.com/GaddipatiCharitha/Spiffy) — A customised clothes printing web app built with Flask + JavaScript
+> 🎽 Also check out [**Spiffy**](https://github.com/GaddipatiCharitha/Spiffy) — A customised clothes printing web app built with Flask + JavaScript
 
 ---
 
@@ -156,12 +152,6 @@ class CharithaGaddipati:
 | 🎓 | AI Workflow — Coursera | 2023 |
 | 🌐 | Web Development — HackerRank | 2024 |
 | ☕ | Java Programming — NPTEL | 2024 |
-
----
-
-## 💬 My Motto
-
-> *"Most AI projects stay in notebooks. Mine ship to production."*
 
 ---
 
